@@ -1,5 +1,4 @@
 .cuerpo {
-    display: absolute;
     display: grid;
     grid-template-columns: auto;
     grid-template-rows: auto;
